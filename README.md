@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋 I'm BAI</h1>
 
 <p align="center">
+  <img src="bigwhitedogcoding.gif" alt="Coding GIF" width="260" />
+</p>
+
+<p align="center">
   🌱 AI & Python 應用工程師養成中｜喜歡把學到的東西做成實際作品  
 </p>
 
