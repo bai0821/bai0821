@@ -4,9 +4,9 @@
 
 <br/>
 
-# 👋 Hi, I'm BAI
+<img src="header.svg" width="700" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=FF8C42&background=FFFDF900&center=true&vCenter=true&width=700&lines=正在打造企業級+AI+協作平台+🏗️;Multi-Agent+%7C+RAG+%7C+LLM+Orchestration+☀️;從架構設計到全端實作，一個人扛起來+💪)](https://git.io/typing-svg)
+<img src="subtitle.svg" width="700" />
 
 <br/>
 
